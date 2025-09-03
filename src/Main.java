@@ -3,6 +3,7 @@
 
         public class Main {
             public static void main(String[] args) {
-                System.out.printf("GitHub!");
+                System.out.println("GitHub!");
+                System.out.println("Intro!");
             }
         }
