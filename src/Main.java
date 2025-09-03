@@ -6,5 +6,6 @@
                 System.out.println("GitHub!");
                 System.out.println("Intro!");
                 System.out.println("Merge Conflicts");
+                System.out.println("conflict this");
             }
         }
